@@ -1,15 +1,15 @@
-<h1 align="center">Hi I'm Angelos👋</h1>
+<h1 align="center">Hi I'm Angelos</h1>
 <h3 align="center">Computer Engineer</h3>
 
 ---
 
-## 🚀 About Me
-- 🎓 Student at Computer Engineering and Informatics Department - University of Patras
-- 🔌 Passionate about ML, Data-Analysis
+## About Me
+- Student at Computer Engineering and Informatics Department - University of Patras
+- Passionate about ML, Data-Analysis
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -24,19 +24,19 @@
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AngelosStoukas&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🧠 Current Projects
+## Current Projects
 - ΣΥΓΚΡΙΤΙΚΗ ΑΞΙΟΛΟΓΗΣΗ ΜΟΝΤΕΛΩΝ ΘΕΜΕΛΙΩΣΗΣ (FOUNDATION MODELS) ΚΑΙ ΑΡΧΙΤΕΚΤΟΝΙΚΩΝ ΒΑΘΙΑΣ ΜΑΘΗΣΗΣ ΣΤΗ ΒΕΛΤΙΣΤΟΠΟΙΗΣΗ ΧΑΡΤΟΦΥΛΑΚΙΟΥ ΠΕΡΙΟΥΣΙΑΚΩΝ ΣΤΟΙΧΕΙΩΝ
 
 
 ---
 
-## 📫 Connect with me
+## Connect with me
 - ✉️ stoukasangelos@gmail.com
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/angelos-stoukas-306b28289/)
 
