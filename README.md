@@ -37,7 +37,7 @@
 ---
 
 ## Connect with me
-- ✉️ stoukasangelos@gmail.com
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/angelos-stoukas-306b28289/)
+- stoukasangelos@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/angelos-stoukas-306b28289/)
 
 ---
