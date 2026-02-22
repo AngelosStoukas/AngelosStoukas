@@ -29,9 +29,8 @@
 </p>
 
 ## 🧠 Current Projects
-- ...
-- ...
-- ...
+- ΣΥΓΚΡΙΤΙΚΗ ΑΞΙΟΛΟΓΗΣΗ ΜΟΝΤΕΛΩΝ ΘΕΜΕΛΙΩΣΗΣ (FOUNDATION MODELS) ΚΑΙ ΑΡΧΙΤΕΚΤΟΝΙΚΩΝ ΒΑΘΙΑΣ ΜΑΘΗΣΗΣ ΣΤΗ ΒΕΛΤΙΣΤΟΠΟΙΗΣΗ ΧΑΡΤΟΦΥΛΑΚΙΟΥ ΠΕΡΙΟΥΣΙΑΚΩΝ ΣΤΟΙΧΕΙΩΝ
+
 
 ---
 
@@ -40,7 +39,3 @@
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/angelos-stoukas-306b28289/)
 
 ---
-
-<p align="center">
-  ⭐ Always building. Always learning.
-</p>
