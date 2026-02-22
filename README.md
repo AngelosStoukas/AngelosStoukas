@@ -23,10 +23,10 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AngelosStoukas/AngelosStoukas/output/github-contribution-grid-snake.svg" />
+  <img src="https://streak-stats.demolab.com?user=AngelosStoukas&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🧠 Current Projects
