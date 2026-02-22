@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋 I'm Your Name</h1>
+<h1 align="center">Hi 👋 I'm Angelos</h1>
 <h3 align="center">Embedded Systems & Microcontrollers Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me
-- 🎓 Student  
-- 💻 Working with C & ATmega4808  
-- 🔌 Passionate about Embedded Systems  
-- 📚 Currently learning Advanced Microcontrollers  
+- 🎓 Student at Computer Engineering and Informatics Department - University of Patras
+- 🔌 Passionate about ...
+- 📚 Currently learning ...
 
 ---
 
@@ -33,15 +32,15 @@
 ---
 
 ## 🧠 Current Projects
-- 🛗 Elevator Simulation (ATmega4808)
-- 🏠 Smart Home Navigation with ADC
-- 🌪️ PWM Fan Controller (3 Speed Stages)
+- ...
+- ...
+- ...
 
 ---
 
 ## 📫 Connect with me
 - ✉️ yourmail@example.com
-- 💼 LinkedIn: your-link-here
+- 💼 LinkedIn: ...
 
 ---
 
