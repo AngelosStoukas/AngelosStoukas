@@ -36,8 +36,8 @@
 ---
 
 ## 📫 Connect with me
-- ✉️ yourmail@example.com
-- 💼 LinkedIn: ...
+- ✉️ stoukasangelos@gmail.com
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/angelos-stoukas-306b28289/)
 
 ---
 
