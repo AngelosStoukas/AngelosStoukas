@@ -23,13 +23,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AngelosStoukas&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AngelosStoukas&layout=compact&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/AngelosStoukas/AngelosStoukas/output/github-contribution-grid-snake.svg" />
 </p>
----
 
 ## 🧠 Current Projects
 - ...
