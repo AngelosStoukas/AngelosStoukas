@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Angelos</h1>
+<h1 align="center">Hi I'm Angelos👋</h1>
 <h3 align="center">Embedded Systems & Microcontrollers Enthusiast</h3>
 
 ---
