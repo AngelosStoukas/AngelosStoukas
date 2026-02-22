@@ -1,12 +1,11 @@
 <h1 align="center">Hi I'm Angelos👋</h1>
-<h3 align="center">Embedded Systems & Microcontrollers Enthusiast</h3>
+<h3 align="center">Computer Engineer</h3>
 
 ---
 
 ## 🚀 About Me
 - 🎓 Student at Computer Engineering and Informatics Department - University of Patras
-- 🔌 Passionate about ...
-- 📚 Currently learning ...
+- 🔌 Passionate about ML, Data-Analysis
 
 ---
 
