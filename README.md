@@ -24,14 +24,12 @@
 
 ---
 
-## GitHub Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AngelosStoukas&theme=tokyonight&hide_border=true" />
-</p>
 
 ## Current Projects
-- ΣΥΓΚΡΙΤΙΚΗ ΑΞΙΟΛΟΓΗΣΗ ΜΟΝΤΕΛΩΝ ΘΕΜΕΛΙΩΣΗΣ (FOUNDATION MODELS) ΚΑΙ ΑΡΧΙΤΕΚΤΟΝΙΚΩΝ ΒΑΘΙΑΣ ΜΑΘΗΣΗΣ ΣΤΗ ΒΕΛΤΙΣΤΟΠΟΙΗΣΗ ΧΑΡΤΟΦΥΛΑΚΙΟΥ ΠΕΡΙΟΥΣΙΑΚΩΝ ΣΤΟΙΧΕΙΩΝ
+-My Thesis: ΣΥΓΚΡΙΤΙΚΗ ΑΞΙΟΛΟΓΗΣΗ ΜΟΝΤΕΛΩΝ ΘΕΜΕΛΙΩΣΗΣ (FOUNDATION MODELS) ΚΑΙ ΑΡΧΙΤΕΚΤΟΝΙΚΩΝ ΒΑΘΙΑΣ ΜΑΘΗΣΗΣ ΣΤΗ ΒΕΛΤΙΣΤΟΠΟΙΗΣΗ ΧΑΡΤΟΦΥΛΑΚΙΟΥ ΠΕΡΙΟΥΣΙΑΚΩΝ ΣΤΟΙΧΕΙΩΝ
+
+- StudySwap 
 
 
 ---
